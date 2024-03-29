@@ -51,6 +51,6 @@ In any future projects, I will make sure that I am well-planned before starting 
 ## Author
 
 - LinkedIn - [Kalyada Leosrisook](https://www.linkedin.com/in/kalyada-leosrisook-314a31173/)
-- Email -  kalyadaleosrisook@gmail.com
+- Email -  Kalyada.L@outlook.com
 
 
