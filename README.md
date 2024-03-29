@@ -1,6 +1,4 @@
-# Frontend Mentor - Multi-step form solution
 
-This is a solution to the [Multi-step form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -13,7 +11,8 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 - [Author](#author)
 
 ## Overview
-
+This project is part of a challenge I took from Frontend mentor website. The challenge is to create a multi-page form as following  the design the challenge provided in Figma format. 
+You can visit the finished project via [this link](https://patleosrisook.github.io/Multi-step-form/)
 ### The challenge
 The challange is to build a multi-page form. The requirements of this challange is that users should be able to:
 
