@@ -25,7 +25,11 @@ html, body {
 body{
     background-color: $background;
 }
-
+.attribute {
+    position: absolute;
+    top: 96%;
+    left: 41px;
+}
 // Overriding toggle button styling 
 .slideon input:checked~.slideon-slider {
     background-color: #022959 !important;
@@ -102,10 +106,12 @@ body{
             font-weight: 700;
             font-size:22px;
             margin:0;
+
         }
         &:nth-child(2) {
             color: #9699AA;
             font-size:12px;
+            width: 80%;
         }
         margin-bottom: 0;
     }
@@ -144,7 +150,7 @@ body{
         width:100%;
         input[type="text"], input[type="number"], input[type="email"] {
             border: 1px solid #D6D9E6;
-            width:295px;
+            width: 80%;
             height:40px;
             border-radius: 10px;
             &:focus {
@@ -398,6 +404,23 @@ body{
     border:none;
     color:white;
     font-size:14px;
+}
+@media(min-width: 375px) {
+    .attribute {
+        top: 84%;
+        left: 60px;
+    }
+    #Form {
+        .addons {
+            position: relative;
+            left: 10px;
+        }
+        .form_group {
+            input[type="text"] {
+                width:100%;
+            }
+        }
+    }
 }
 @media(min-width:1024px ) {
     body{
